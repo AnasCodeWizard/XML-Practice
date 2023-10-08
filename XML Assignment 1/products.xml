@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE products SYSTEM "products.dtd">
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+<products>
+    <product>
+        <productId>1</productId>
+        <productName>Pencil</productName>
+        <quantity>12000 units</quantity>
+        <pricePerUnit>10</pricePerUnit>
+        <pricePerDozen>110</pricePerDozen>
+        <inStock>yes</inStock>
+    </product>
+    <product>
+        <productId>2</productId>
+        <productName>Pen</productName>
+        <quantity>6000 units</quantity>
+        <pricePerUnit>60</pricePerUnit>
+        <pricePerDozen>700</pricePerDozen>
+        <inStock>yes</inStock>
+    </product>
+    <product>
+        <productId>3</productId>
+        <productName>Eraser</productName>
+        <quantity>15000 units</quantity>
+        <pricePerUnit>7</pricePerUnit>
+        <pricePerDozen>80</pricePerDozen>
+        <inStock>yes</inStock>
+    </product>
+    <product>
+        <productId>4</productId>
+        <productName>Sharpener</productName>
+        <quantity>0 units</quantity>
+        <pricePerUnit>10</pricePerUnit>
+        <pricePerDozen>110</pricePerDozen>
+        <inStock>no</inStock>
+    </product>
+    <product>
+        <productId>5</productId>
+        <productName>Board Marker</productName>
+        <quantity>500 units</quantity>
+        <pricePerUnit>80</pricePerUnit>
+        <pricePerDozen>900</pricePerDozen>
+        <inStock>yes</inStock>
+    </product>
+</products>

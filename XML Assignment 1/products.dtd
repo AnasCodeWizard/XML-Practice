@@ -1,0 +1,8 @@
+<!ELEMENT products (product*)>
+<!ELEMENT product (productId, productName, quantity, pricePerUnit, pricePerDozen, inStock)>
+<!ELEMENT productId (#PCDATA)>
+<!ELEMENT productName (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT pricePerUnit (#PCDATA)>
+<!ELEMENT pricePerDozen (#PCDATA)>
+<!ELEMENT inStock (#PCDATA)>

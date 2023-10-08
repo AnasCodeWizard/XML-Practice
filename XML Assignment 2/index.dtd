@@ -1,0 +1,8 @@
+<!ELEMENT mobileShop (mobiles)>
+<!ELEMENT mobiles (mobileName+)>
+<!ELEMENT mobileName (id,brand,model,price)>
+<!ELEMENT id    (#PCDATA)>
+<!ELEMENT brand (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST mobileShop status CDATA #IMPLIED>

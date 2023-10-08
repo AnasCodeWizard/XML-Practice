@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.dtd" type="application/xml-dtd"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+
+<mobileShop status="products">
+       <mobiles>
+        <mobileName>
+           <id>091</id>
+           <brand>OPPO</brand>
+           <model>F19 PRO</model>
+           <price>Rs.49,000</price>
+        </mobileName>
+
+        <mobileName>
+            <id>092</id>
+            <brand>APPLE</brand>
+            <model>14 PRO</model>
+            <price>Rs.350,000</price>
+         </mobileName>
+
+         <mobileName>
+            <id>093</id>
+            <brand>SAMSUNG</brand>
+            <model>S23+</model>
+            <price>Rs.360,000</price>
+         </mobileName>
+
+         <mobileName>
+            <id>094</id>
+            <brand>VIVO</brand>
+            <model>V23E</model>
+            <price>Rs.65,000</price>
+         </mobileName>
+
+         <mobileName>
+            <id>095</id>
+            <brand>INFINIX</brand>
+            <model>NOTE 30 PRO</model>
+            <price>Rs.70,000</price>
+         </mobileName>
+
+         <mobileName>
+            <id>096</id>
+            <brand>TECHNO</brand>
+            <model>CAMON 20 PRO</model>
+            <price>Rs.40,000</price>
+         </mobileName>
+
+         <mobileName>
+            <id>097</id>
+            <brand>MOTOROLLA</brand>
+            <model>EDGE PLUS</model>
+            <price>Rs.65,000</price>
+         </mobileName>
+     
+       </mobiles>  
+</mobileShop>
